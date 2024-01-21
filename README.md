@@ -22,7 +22,7 @@ In this repository, we provide the test results of our previous/latest ultrasoni
 ## Explanation of Directory Structure
 
 ```
-**Ultrasonic_Jammer**
+Ultrasonic_Jammer
 │
 ├── Results
 │   ├── Backward-Commerical_Jammer.jpg
